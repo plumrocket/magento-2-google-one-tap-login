@@ -15,88 +15,91 @@ In this way, you can make the sign-in process easier and faster for users and in
 </p>
  
 ## Integrate Google One Tap and 50+ other Social Login Networks (All-In-One Solution)
-The Google One Tap extension supports more than 50 most popular social networks, including Facebook, Twitter, LinkedIn, Pinterest, etc. With this plugin, you can offer your customers the ability to register or sign in faster with their most frequently used social network account.
+The Google One Tap is one of 50+ social networks included in the [Social Login Pro extension for Magento 2](https://plumrocket.com/magento-social-login-pro) by Plumrocket. 
 
-**List of Supported Social Networks and Email Services:**
- <br><br>
+Benefit from the built-in support of all popular social networks, including Facebook, Twitter, LinkedIn, Pinterest, etc., and offer your customers the ability to register or sign in faster with their most frequently used social network account.
+
+<br>
+
+**Check the full list of supported Social Networks and Email Services:**
+<br><br>
 
 <table>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/facebook.jpg" width="40" height="40" /><br>Magento 2 Facebook Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/twitter.jpg" width="40" height="40" /><br>Magento 2 Twitter Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/google.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login">Magento 2 Google Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/google.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login">Magento 2 Google One Tap Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/linkedin.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/linkedin-login">Magento 2 LinkedIn Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/yahoo.jpg" width="40" height="40" /><br>Magento 2 Yahoo! Login</td>
+    <td align="center" width="16.6%" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/facebook.jpg" width="40" height="40" /><br>Magento 2 Facebook Login</td>
+    <td align="center" width="16.6%"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/twitter.jpg" width="40" height="40" /><br>Magento 2 <br>Twitter Login</td>
+    <td align="center" width="16.6%"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/google.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login" title="Magento 2 Google Login">Magento 2<br> Google Login</a></td>
+    <td align="center" width="16.6%"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/google.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login" title="Magento 2 Google One Tap Login">Magento 2 Google One Tap Login</a></td>
+    <td align="center" width="16.6%"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/linkedin.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/linkedin-login" title ="Magento 2 LinkedIn Login">Magento 2 LinkedIn Login</a></td>
+    <td align="center" width="16.6%"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/yahoo.jpg" width="40" height="40" /><br>Magento 2<br> Yahoo! Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/hotmail.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login">Magento 2 Live / Hotmail / MSN Login <br>(Microsoft Account)</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/amazon.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login">Magento 2 Amazon Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/aol.jpg" width="40" height="40" /><br>Magento 2 AOL Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/github.jpg" width="40" height="40" /><br>Magento 2 GitHub Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/instagram.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/instagram-login">Magento 2 Instagram Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/hotmail.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login" title="Magento 2 Microsoft (Live / Outlook) Login">Magento 2 Microsoft (Live / Outlook) Login</a></td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/amazon.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/google-login" title="Magento 2 Amazon Login">Magento 2 Amazon Login</a></td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/aol.jpg" width="40" height="40" /><br>Magento 2 <br>AOL Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/github.jpg" width="40" height="40" /><br>Magento 2<br> GitHub Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/instagram.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/instagram-login" title="Magento 2 Instagram Login">Magento 2 Instagram Login</a></td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/foursquare.jpg" width="40" height="40" /><br>Magento 2 Foursquare Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/dropbox.jpg" width="40" height="40" /><br>Magento 2 Dropbox Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/disqus.jpg" width="40" height="40" /><br>Magento 2 Disqus Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/dropbox.jpg" width="40" height="40" /><br>Magento 2 <br>Dropbox Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/disqus.jpg" width="40" height="40" /><br>Magento 2 <br>Disqus Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/livejournal.jpg" width="40" height="40" /><br>Magento 2 LiveJournal Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/tumblr.jpg" width="40" height="40" /><br>Magento 2 Tumblr Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/flickr.jpg" width="40" height="40" /><br>Magento 2 Flickr Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/tumblr.jpg" width="40" height="40" /><br>Magento 2<br> Tumblr Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/flickr.jpg" width="40" height="40" /><br>Magento 2<br> Flickr Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/wordpress.jpg" width="40" height="40" /><br>Magento 2 WordPress Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/vk.jpg" width="40" height="40" /><br>Magento 2 Vkontakte Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/vk.jpg" width="40" height="40" /><br>Magento 2 Vkontakte Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/odnoklassniki.jpg" width="40" height="40" /><br>Magento 2 Odnoklassniki Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/mailru.jpg" width="40" height="40" /><br>Magento 2 Mail.ru Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/yandex.jpg" width="40" height="40" /><br>Magento 2 Yandex Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/paypal.jpg" width="40" height="40" /><br>Magento 2 PayPal Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/salesforce.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/instagram-login">Magento 2 Salesforce Login</a></td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/mailru.jpg" width="40" height="40" /><br>Magento 2<br> Mail.ru Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/yandex.jpg" width="40" height="40" /><br>Magento 2<br> Yandex Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/paypal.jpg" width="40" height="40" /><br>Magento 2<br> PayPal Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/salesforce.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/instagram-login" title="Magento 2 Salesforce Login">Magento 2 Salesforce Login</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/evernote.jpg" width="40" height="40" /><br>Magento 2 Evernote Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/stackoverflow.jpg" width="40" height="40" /><br>Magento 2 Stackoverflow Login (StackExchange)</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/mixi.jpg" width="40" height="40" /><br>Magento 2 Mixi Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/qq.jpg" width="40" height="40" /><br>Magento 2 QQ / Qzone Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/sinaweibo.jpg" width="40" height="40" /><br>Magento 2 Sina Weibo Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/evernote.jpg" width="40" height="40" /><br>Magento 2 Evernote Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/stackoverflow.jpg" width="40" height="40" /><br>Magento 2 Stackoverflow <br>Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/mixi.jpg" width="40" height="40" /><br>Magento 2<br> Mixi Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/qq.jpg" width="40" height="40" /><br>Magento 2<br> QQ / Qzone Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/sinaweibo.jpg" width="40" height="40" /><br>Magento 2<br> Sina Weibo Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/kaixin001.jpg" width="40" height="40" /><br>Magento 2 Kaixin001 Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/renren.jpg" width="40" height="40" /><br>Magento 2 Renren Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/alipay.jpg" width="40" height="40" /><br>Magento 2 Alipay Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/wechat.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/wechat-login">Magento 2 WeChat Login</a></td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/renren.jpg" width="40" height="40" /><br>Magento 2 <br>Renren Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/alipay.jpg" width="40" height="40" /><br>Magento 2 <br>Alipay Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/wechat.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/wechat-login" title="Magento 2 WeChat Login">Magento 2 WeChat Login</a></td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/mydigipass.jpg" width="40" height="40" /><br>Magento 2 Mydigipass.com Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/soundcloud.jpg" width="40" height="40" /><br>Magento 2 SoundCloud Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/soundcloud.jpg" width="40" height="40" /><br>Magento 2<br> SoundCloud Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/verisign.jpg" width="40" height="40" /><br>Magento 2 Verisign Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/xing.jpg" width="40" height="40" /><br>Magento 2 XING Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/persona.jpg" width="40" height="40" /><br>Magento 2 Persona / BrowserID Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/xing.jpg" width="40" height="40" /><br>Magento 2 <br>XING Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/persona.jpg" width="40" height="40" /><br>Magento 2 Persona / <br>BrowserID Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/bitbucket.jpg" width="40" height="40" /><br>Magento 2 Bitbucket Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/skyrock.jpg" width="40" height="40" /><br>Magento 2 QQ / Skyrock Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/bitly.jpg" width="40" height="40" /><br>Magento 2 Bitly Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/skyrock.jpg" width="40" height="40" /><br>Magento 2<br> Skyrock Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/bitly.jpg" width="40" height="40" /><br>Magento 2<br> Bitly Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/box.jpg" width="40" height="40" /><br>Magento 2 Box.com Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/vimeo.jpg" width="40" height="40" /><br>Magento 2 Vimeo Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/reddit.jpg" width="40" height="40" /><br>Magento 2 Reddit Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/vimeo.jpg" width="40" height="40" /><br>Magento 2 <br>Vimeo Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/reddit.jpg" width="40" height="40" /><br>Magento 2<br> Reddit Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/upwork.jpg" width="40" height="40" /><br>Magento 2 Upwork Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/teamviewer.jpg" width="40" height="40" /><br>Magento 2 TeamViewer Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/etsy.jpg" width="40" height="40" /><br>Magento 2 Etsy Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/imgur.jpg" width="40" height="40" /><br>Magento 2 Imgur Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/etsy.jpg" width="40" height="40" /><br>Magento 2<br> Etsy Login</td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/imgur.jpg" width="40" height="40" /><br>Magento 2<br> Imgur Login</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/intuit.jpg" width="40" height="40" /><br>Magento 2 Intuit Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/intuit.jpg" width="40" height="40" /><br>Magento 2 <br>Intuit Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/mailchimp.jpg" width="40" height="40" /><br>Magento 2 MailChimp Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/dribbble.jpg" width="40" height="40" /><br>Magento 2 Dribbble Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/goodreads.jpg" width="40" height="40" /><br>Magento 2 Goodreads Login</td>
     <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/lastfm.jpg" width="40" height="40" /><br>Magento 2 Last.fm Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/naver.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/naver-login">Magento 2 Naver Login</a></td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/naver.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/naver-login" title="Magento 2 Naver Login">Magento 2<br> Naver Login</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/line.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/line-login">Magento 2 Line Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/apple.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/apple-login">Magento 2 Apple Login</td>
-    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/kakao.jpg" width="40" height="40" /><br>Magento 2 Kakao Login</td>
+    <td align="center" height="135px"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/line.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/line-login" title="Magento 2 Line Login">Magento 2 <br>Line Login</a></td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/apple.jpg" width="40" height="40" /><br><a href="https://plumrocket.com/magento-social-login-pro/apple-login" title ="Magento 2 Apple Login" title="Magento 2 Apple Login">Magento 2 <br>Apple Login</a></td>
+    <td align="center"><img src="https://plumrocket.com/skin/frontend/p/d/images/productpages/social_login/kakao.jpg" width="40" height="40" /><br>Magento 2<br> Kakao Login</td>
   </tr>
 </table>
-
